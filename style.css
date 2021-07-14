@@ -92,24 +92,3 @@ top: 3474px;
 .footer img{
     width: 30%;
 }
-/* media queries */
-@media screen and (max-width:688px){
-    .container-2 {
-        grid-template-columns: repeat(1 , 1fr);
-        flex-direction: column;
-    }
-
-footer{
-    justify-content: center;
-}
-.container-3 {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-}
-.container-1{
-    display:grid;
-    grid-template-columns: repeat( 1 , 0.25fr);
-    padding: 0;
-    margin: none;
-}
-}
