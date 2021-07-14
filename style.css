@@ -1,3 +1,4 @@
+
 body{
     
     font-family: 'Poppins', sans-serif;
@@ -97,7 +98,7 @@ top: 3474px;
         grid-template-columns: repeat(1 , 1fr);
         flex-direction: column;
     }
-}
+
 footer{
     justify-content: center;
 }
@@ -110,4 +111,5 @@ footer{
     grid-template-columns: repeat( 1 , 0.25fr);
     padding: 0;
     margin: none;
+}
 }
